@@ -255,7 +255,6 @@ Python, Docker, Scikit-learn, FastAPI.",
   {
     id: 2,
     title: "Autism Detection",
-    date: "Jan 2023 - Mar 2023",
     description:
       "Developed a deep learning-based system for early detection of autism spectrum disorder (ASD) using facial features and emotion cues.\
 The pipeline includes image preprocessing, segmentation, feature extraction, model training, and classification.",
@@ -273,8 +272,7 @@ The pipeline includes image preprocessing, segmentation, feature extraction, mod
   },
   {
     id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
+    title: "Uber Data Analytics",
     description:
       "Implemented a cloud-based data analytics solution on Uber datasets by configuring\
 Azure Blob Storage for data ingestion, developing data processing workflows in Python on Azure Virtual Machines,\
